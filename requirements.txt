@@ -1,5 +1,4 @@
 fastapi
-uvicorn[standard]
-google-genai
-PyGithub
+uvicorn
+requests
 python-dotenv
